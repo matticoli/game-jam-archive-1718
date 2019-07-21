@@ -1,0 +1,27 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Carpet_Berber_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.525490 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd Lvl1/Carpet_Berber_Multi.jpg
+
+newmtl Suede_Brown
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.160784 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd Lvl1/Suede_Brown.jpg
+
+newmtl Wallpaper_Thin_Brown_Stripes
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.627451 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd Lvl1/Wallpaper_Thin_Brown_Stripes.jpg
+
